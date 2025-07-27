@@ -9,7 +9,7 @@
 
 ## 📌 Key Contributions
 
-### 🌐 Global Knowledge Collaboration
+### 🌐 Global Knowledge Collaboration Center
 
 * **Role:** Project Manager
 * Defined and aligned project direction with client.
