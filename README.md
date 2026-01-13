@@ -18,7 +18,7 @@
 
 **Highlights:**
 
-* **Large-scale permanent AI photo booth installation** (Contract Value: \~20 million KRW)
+* **Large-scale permanent AI photo booth installation**
 * Developed diverse categories across **Future Medical, Factory Automation, Maritime Logistics, Space Technology**.
 * Managed extensive client-driven revisions effectively.
   
